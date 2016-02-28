@@ -1,0 +1,32 @@
+_repo: An-Introduction-to-Yoga_4278
+creator:
+  author:
+    agent_name: Besant, Annie
+    aliases:
+    - Wood, Annie
+    - Besant, Annie Wood
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+description: The whole evolution is one in its essence. The succession is the same,
+  the sequences identical. Whether you are thinking of the unfolding of consciousness
+  in the universe, or in the human race, or in the individual, you can study the laws
+  of the whole, and in Yoga you learn to apply those same laws to your own consciousness
+  rationally and definitely. All the laws are one, however different in their stage
+  of manifestation. If you look at Yoga in this light, then this Yoga ...
+gutenberg_bookshelf: Hinduism
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Yoga'
+title: An Introduction to Yoga
+url: http://www.gutenberg.org/ebooks/4278
