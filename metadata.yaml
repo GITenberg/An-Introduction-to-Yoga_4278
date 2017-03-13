@@ -1,5 +1,8 @@
 _repo: An-Introduction-to-Yoga_4278
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Besant, Annie
@@ -17,6 +20,8 @@ description: The whole evolution is one in its essence. The succession is the sa
   of the whole, and in Yoga you learn to apply those same laws to your own consciousness
   rationally and definitely. All the laws are one, however different in their stage
   of manifestation. If you look at Yoga in this light, then this Yoga ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4278#An-Introduction-to-Yoga
 gutenberg_bookshelf: Hinduism
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
